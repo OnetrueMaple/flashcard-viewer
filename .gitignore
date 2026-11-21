@@ -1,0 +1,5 @@
+# CPython
+/__pycache__/**
+
+# Random Flashcard Data (includes paid-for ISC2 material)
+/backupcards/**

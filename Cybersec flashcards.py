@@ -8,31 +8,31 @@ def main():
 
     # Load the data stored in all my flashcard files...
     reader.openFile("domainOneFlashcards.json")
-    for i in range(55):
+    for i in range(4):
         next = Flashcard.Flashcard(json=(json.loads(reader.readData())))
         cards.append(next)
     reader.closeFile()
 
     reader.openFile("domainTwoFlashcards.json")
-    for i in range(16):
+    for i in range(2):
         next = Flashcard.Flashcard(json=(json.loads(reader.readData())))
         cards.append(next)
     reader.closeFile()
 
     reader.openFile("domainThreeFlashcards.json")
-    for i in range(28):
+    for i in range(2):
         next = Flashcard.Flashcard(json=(json.loads(reader.readData())))
         cards.append(next)
     reader.closeFile()
 
     reader.openFile("domainFourFlashcards.json")
-    for i in range(38):
+    for i in range(3):
         next = Flashcard.Flashcard(json=(json.loads(reader.readData())))
         cards.append(next)
     reader.closeFile()
 
     reader.openFile("domainFiveFlashcards.json")
-    for i in range(34):
+    for i in range(2):
         next = Flashcard.Flashcard(json=(json.loads(reader.readData())))
         cards.append(next)
     reader.closeFile()
