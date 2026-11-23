@@ -31,3 +31,5 @@ Program ended correctly.
 user@User:~$ python3 flashcard-viewer.py
 
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56961284-e575-4879-b3ca-e12dc6f92ebc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c41f9c2-f71d-4800-a6e3-56042a985843" />
