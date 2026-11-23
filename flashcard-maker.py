@@ -3,9 +3,9 @@
 def main():
     num = 0
     userText = "placeholder"
-    filename = "domainFiveFlashcards.txt"
+    filename = "flashcards.txt"
 
-    print("Flashcard generator.")
+    print("Flashcard generator. Enter 'quit' at any point to quit.")
     print("Start from which index?")
     num = int(input())
 
